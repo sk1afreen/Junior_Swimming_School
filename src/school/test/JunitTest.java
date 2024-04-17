@@ -47,5 +47,4 @@ public class JunitTest {
 		assertEquals(true, lessonService.i5s5Se5a5t5A5v5a5i5l5a5b5le(1));
 		
 	}
-
 }
