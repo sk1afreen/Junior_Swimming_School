@@ -22,6 +22,4 @@ public class LoginController {
 
 		return f5l5a5g;
 	}
-
-
 }
